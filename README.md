@@ -11,7 +11,7 @@ proyectos y mis intereses.
 * Nombre: Cristopher Arroba
 * Ocupación: Desarrollador de software
 * Lugar de residencia: Guayaquil
-* Sitio web: [Tu sitio web]
+
 ## Proyectos
 * Vista previa de una interfaz de una tienda en linea de videojuegos
 * Map de los archivos de una carpeta 
