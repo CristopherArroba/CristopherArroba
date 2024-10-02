@@ -8,11 +8,13 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
+* Nombre: Cristopher Arroba
+* Ocupación: Desarrollador de software
+* Lugar de residencia: Guayaquil
 * Sitio web: [Tu sitio web]
 ## Proyectos
-* [Lista de tus proyectos]
+* Vista previa de una interfaz de una tienda en linea de videojuegos
+* Map de los archivos de una carpeta 
 ## Intereses
-* [Lista de tus intereses]
+* Base de datos
+* Ciencia de datos
